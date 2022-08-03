@@ -4,11 +4,7 @@
 
 - 🌱 I’m currently learning about **Competitive Programming** and **DSA**
 
-<!-- - 👯 I’m looking to collaborate on **Any Projects as per my skillset** -->
-
 - 👨‍💻 All of my projects are available at [https://github.com/abhaysaini/](https://github.com/abhaysaini/)
-
-<!-- - 📝 I Have my portfolio at [https://devangsharma.me/](https://devangsharma.me/) -->
 
 - 💬 Ask me about **C/C++, DSA, Competitive Programming**
 
