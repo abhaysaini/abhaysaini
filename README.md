@@ -17,7 +17,6 @@
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=abhaysaini) 
-![Repos Badge](https://badges.pufler.dev/repos/abhaysaini)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=abhaysaini&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysaini&layout=compact&theme=buefy" alt="languages" height="165">
