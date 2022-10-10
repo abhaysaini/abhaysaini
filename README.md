@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhaysaini1974@gmail.com**
 
-- 📄 Know about other detail in my **[Resume](https://bit.ly/3QCfW9e)**
+- 📄 Know about other detail in my **[Resume](https://drive.google.com/file/d/1gSgdfIn6YrUAIVkCfMskD6C2awZoiwK-/view?usp=sharing)**
 
 ### 👦Stats:
 
