@@ -34,6 +34,8 @@
 
 [![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
+
 ### 🏆 Github trophies
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhaysaini)  
