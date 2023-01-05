@@ -30,7 +30,9 @@
 <br />
 <br />
 
-![GitHub metrics](https://metrics.lecoq.io/abhaysaini) <br>
+
+
+[![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
 
 ### 🏆 Github trophies
 
