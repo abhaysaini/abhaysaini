@@ -18,9 +18,9 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=abhaysaini) 
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abhaysaini&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysaini&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
+[![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
 </div>
 
 ### 👨‍💻Connect with me
@@ -32,9 +32,7 @@
 
 
 
-[![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
 
 ### 🏆 Github trophies
 
