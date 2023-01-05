@@ -1,12 +1,12 @@
 ## Hi there, I'm Abhay Saini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a IT student, Android Developer!
+## I'm a IT student, Competitive Programmer!
 
-- 🌱 I’m currently learning about **Competitive Programming** and **DSA** and **Android Development**
+- 🌱 I’m currently learning about **Competitive Programming** and **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhaysaini/](https://github.com/abhaysaini/)
 
-- 💬 Ask me about **C/C++, DSA, Competitive Programming , Android Development, Kotlin**
+- 💬 Ask me about **C/C++, DSA, Competitive Programming**
 
 - 📫 How to reach me **abhaysaini1974@gmail.com**
 
@@ -40,11 +40,8 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
 
 <p align="left">
-	<a href="https://kotlinlang.org/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="c" width="40" height="40"/>
-	</a>
 	<a href="https://www.cprogramming.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="c" width="40" height="40"/>          
 	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
