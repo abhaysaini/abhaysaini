@@ -91,7 +91,7 @@
 	</a>
 </p>
 
-### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="50"> Problem Solving website progress:
+### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="60"> Problem Solving website progress:
 
 <p align="left">
 	<a href="https://leetcode.com/abhaysaini2002/" target="_blank">
