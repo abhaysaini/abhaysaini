@@ -1,12 +1,12 @@
 ## Hi there, I'm Abhay Saini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a IT student, Competitive Programmer!
+## I'm a IT student, Android Developer!
 
-- 🌱 I’m currently learning about **Competitive Programming** and **DSA**
+- 🌱 I’m currently learning about **Competitive Programming**,**DSA** and **Android Development!!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhaysaini/](https://github.com/abhaysaini/)
 
-- 💬 Ask me about **C/C++, DSA, Competitive Programming**
+- 💬 Ask me about **C/C++, DSA, Competitive Programming & Android Development**
 
 - 📫 How to reach me **abhaysaini1974@gmail.com**
 
@@ -19,7 +19,6 @@
 ![profile visit](https://komarev.com/ghpvc/?username=abhaysaini) 
 
 [![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysaini)](https://github.com/abhaysaini/github-readme-stats)
 </div>
 
@@ -29,10 +28,6 @@
 [<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
-
-
-
-
 
 ### 🏆 Github trophies
 
