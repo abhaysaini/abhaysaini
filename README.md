@@ -40,9 +40,15 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
 
 <p align="left">
-	<a href="https://www.cprogramming.com/" target="_blank">
+	<a href="https://kotlinlang.org/" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="c" width="40" height="40"/>          
 	</a>
+	
+	<a href="https://www.mysql.com/" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="c" width="40" height="40"/>                   
+	</a>
+	</a>
+	
 	<a href="https://www.w3schools.com/cpp/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 	</a>
