@@ -37,6 +37,8 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhaysaini)  
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhaysaini)](https://github.com/abhaysaini/github-profile-trophy)
+
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> Languages and Tools:
 
 <p align="left">
