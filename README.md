@@ -22,9 +22,8 @@
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=abhaysaini) 
-
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysaini&layout=compact)](https://github.com/abhaysaini/github-readme-stats)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysaini&show_icons=true&theme=transparent)
 </div>
 
 ### 👨‍💻Connect with me
