@@ -107,8 +107,8 @@
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[instagram]: https://www.instagram.com/abhaysaini2000/
-[linkedin]: https://www.linkedin.com/in/abhay-saini-09bb71200/
+[instagram]: https://www.instagram.com/_abhay_i/
+[linkedin]: https://www.linkedin.com/in/abhay-saini-%F0%9F%9A%80-09bb71200/
 
 <p align="center"> 
   Visitor count<br>
