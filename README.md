@@ -37,7 +37,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhaysaini&margin-w=10&margin-h=10)](https://github.com/abhaysaini/github-profile-trophy)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Languages and Tools:
-
+<br>
 <p align="left">
 	<a href="https://kotlinlang.org/" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60" />          
@@ -91,6 +91,8 @@
 
 
 ### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="60">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Problem Solving website progress:
+
+<br>
 
 <p align="left">
 	<a href="https://leetcode.com/abhaysaini2002/" target="_blank">
