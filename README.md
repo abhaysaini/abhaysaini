@@ -117,5 +117,4 @@
   <img src="https://profile-counter.glitch.me/abhaysaini/count.svg" />
 </p>
 
-![Snake animation](https://github.com/abhaysaini/abhaysaini/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/abhaysaini/abhaysaini/blob/output/github-contribution-grid-snake.gif)
