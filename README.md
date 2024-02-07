@@ -1,4 +1,9 @@
-<h1 align="center">  Hi there, I'm Abhay Saini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"?
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Abhay+Saini!" />
+    </a>
+</h1>
+
 
 ## I'm a IT student, Android Developer!
 
@@ -118,3 +123,4 @@
 </p>
 
 ![snake gif](https://github.com/abhaysaini/abhaysaini/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/abhaysaini/abhaysaini/blob/output/github-contribution-grid-snake.svg)
